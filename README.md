@@ -18,3 +18,4 @@
 <a href="https://linkedin.com/in/isaac-gomes-de-moraes-107198365/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
 
 ##
+Se você quer saber um pouco a respeito de mim, eu fiz um portfólio que fala tudo a respeito. https://sites.google.com/view/isaac-gomes/in%C3%ADcio
