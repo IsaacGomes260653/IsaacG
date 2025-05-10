@@ -2,7 +2,7 @@
 
 
 
-- 📚 Estou no primeiro semestre da Faculdade
+- 🧑‍🏫 Estou no primeiro semestre da Faculdade cursando ciência da computação
 - ❤️ Aprendendo: AI Agent, Python, C++
 
 
@@ -14,7 +14,7 @@
 ##
 
 <h1>Meios de contato</h1>
-<a href="https://www.instagram.com/jywago._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/iiisaacgomes_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/isaac-gomes-de-moraes-107198365/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
 
 ##
